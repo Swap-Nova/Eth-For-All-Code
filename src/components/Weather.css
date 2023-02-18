@@ -1,0 +1,21 @@
+.temp-value{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+    display: flex;
+    align-items: left;
+    text-align: center;
+    letter-spacing: 0.06em;
+
+    color: #3F3F3F;
+}
+
+.icon{
+    background:url(../images/weather_icon.png);
+    border: 0.5px solid #E6EFFC;
+    background-position: left top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

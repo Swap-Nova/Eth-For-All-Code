@@ -1,0 +1,39 @@
+.values{
+    text-align: left;
+}
+
+.time-content{
+
+    width:178px;
+    height:20px;
+  
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+  
+    color: #3F3F3F;
+}
+
+.date-content{
+  
+    float:left;
+    width:164px;
+    height:20px;
+   
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.06em;
+  
+    padding:10px;
+  
+    color: #3F3F3F;
+}  

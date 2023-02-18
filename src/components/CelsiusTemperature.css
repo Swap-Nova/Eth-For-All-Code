@@ -1,0 +1,69 @@
+.temp-heading{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+
+    color: #3F3F3F;
+
+}
+
+.celsius-symbol{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 27px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+
+    color: #000000;
+
+}
+
+.button-div{
+    display:flex;
+    gap:10px;
+    align-items:center;
+    justify-content: center;
+
+}
+
+
+.increment-button{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+
+    border-radius: 50px;
+    border: 1px solid #D1D1D1;
+
+    color: #000000;  
+}
+
+.decrement-button{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+
+    border-radius: 50px;
+    border: 1px solid #D1D1D1;
+
+    color: #000000;
+}

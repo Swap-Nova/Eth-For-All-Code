@@ -1,0 +1,145 @@
+.rectangle-1{
+    box-sizing: border-box;
+  
+    width:250px;
+    height:180px;
+  
+    background: #FFFFFF;
+    border: 1px solid #CACACA;
+    box-shadow: 0px 7px 12px -3px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+}
+  
+.rectangle-2{
+    box-sizing: border-box;
+    width:250px;
+    height:180px;
+  
+    background: #FFFFFF;
+    border: 1px solid #CACACA;
+    box-shadow: 0px 7px 12px -3px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+}
+  
+.rectangle-3{
+    box-sizing: border-box;
+  
+    width:250px;
+    height:180px;
+  
+    background: #FFFFFF;
+    border: 1px solid #CACACA;
+    box-shadow: 0px 7px 12px -3px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+}
+  
+.rectangle-4{
+    box-sizing: border-box;
+  
+    width:620px;
+    height:180px;
+  
+    background: #FFFFFF;
+    border: 1px solid #CACACA;
+    box-shadow: 0px 7px 12px -3px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+}
+  
+.rectangle-5{
+    box-sizing: border-box;
+  
+    width:250px;
+    height:180px;
+  
+    background: #FFFFFF;
+    border: 1px solid #CACACA;
+    box-shadow: 0px 7px 12px -3px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+}
+  
+.switch-1{
+    border-radius: 50px;
+}
+  
+.switch-2{
+    border-radius: 50px;
+}
+  
+.switch-3{
+    border-radius: 50px;
+}
+  
+.switch-4{
+    border-radius:50px;
+}
+  
+.switch-5{
+    border-radius: 50px;
+}
+  
+.light-1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.06em;
+  
+    color: #000000;
+  
+}
+  
+.light-2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.06em;
+  
+    color: #000000;
+  
+}
+  
+.tv{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.06em;
+  
+    color: #000000;
+}
+  
+.ac{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.06em;
+  
+    color: #000000;
+}
+  
+.fan{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.06em;
+  
+    color: #000000;
+}
