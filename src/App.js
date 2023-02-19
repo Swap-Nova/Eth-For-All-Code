@@ -1,3 +1,4 @@
+import React from 'react';
 import './App.css';
 import Date_Time from './components/Date_Time';
 import Switches from './components/Switches';
